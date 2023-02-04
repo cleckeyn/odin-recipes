@@ -1,0 +1,11 @@
+h1 {
+    font-family: Garamond, serif;
+    text-align: left;
+    color: darkblue;
+    background-color: aquamarine;
+}
+ul {
+    text-align: left;
+    font-size: larger;
+    background-color: paleturquoise;
+}
